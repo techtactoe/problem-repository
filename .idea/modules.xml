@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/0001-Introduction/002-AsymptoticAnalysis/002-AsymptoticAnalysis.iml" filepath="$PROJECT_DIR$/0001-Introduction/002-AsymptoticAnalysis/002-AsymptoticAnalysis.iml" />
       <module fileurl="file://$PROJECT_DIR$/0001-Introduction/003-OrderOfGrowth/003-OrderOfGrowth.iml" filepath="$PROJECT_DIR$/0001-Introduction/003-OrderOfGrowth/003-OrderOfGrowth.iml" />
       <module fileurl="file://$PROJECT_DIR$/0001-Introduction/004-BestAverageAndWorstCases/004-BestAverageAndWorstCases.iml" filepath="$PROJECT_DIR$/0001-Introduction/004-BestAverageAndWorstCases/004-BestAverageAndWorstCases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0001-Introduction/005-AsymptoticNotation/005-AsymptoticNotation.iml" filepath="$PROJECT_DIR$/0001-Introduction/005-AsymptoticNotation/005-AsymptoticNotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/problem-repository.iml" filepath="$PROJECT_DIR$/.idea/problem-repository.iml" />
     </modules>
   </component>
