@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/0001-Introduction/007-OmegaNotation/007-OmegaNotation.iml" filepath="$PROJECT_DIR$/0001-Introduction/007-OmegaNotation/007-OmegaNotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/0001-Introduction/008-ThetaNotation/008-ThetaNotation.iml" filepath="$PROJECT_DIR$/0001-Introduction/008-ThetaNotation/008-ThetaNotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/0001-Introduction/009-AnalysisOfCommonLoops/009-AnalysisOfCommonLoops.iml" filepath="$PROJECT_DIR$/0001-Introduction/009-AnalysisOfCommonLoops/009-AnalysisOfCommonLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0001-Introduction/010-AnalysisOfMultipleLoops/010-AnalysisOfMultipleLoops.iml" filepath="$PROJECT_DIR$/0001-Introduction/010-AnalysisOfMultipleLoops/010-AnalysisOfMultipleLoops.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/problem-repository.iml" filepath="$PROJECT_DIR$/.idea/problem-repository.iml" />
     </modules>
   </component>
